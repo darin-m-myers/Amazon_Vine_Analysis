@@ -14,9 +14,11 @@ There were 44 five star paid reviews and 14,626 non-Vine five star reviews.
 48.9% of the Vine reviews were five stars versus 39.1% for the non-Vine reviews.
 
 Image 1.1 - Paid Reviews
+
 ![image](https://user-images.githubusercontent.com/107961905/196832432-3cce522a-cb9c-4622-ba7a-de7405cbdeaa.png)
 
 Image 1.2 - Unpaid Reviews
+
 ![image](https://user-images.githubusercontent.com/107961905/196832446-7bb82c83-9525-4460-94fd-7f6d400f0e57.png)
 
 
